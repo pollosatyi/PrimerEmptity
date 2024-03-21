@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PriverEmptity.Common
 {
-    internal class Wallet
+    public class Wallet
     {
     }
 }
