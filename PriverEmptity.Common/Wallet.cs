@@ -8,5 +8,7 @@ namespace PriverEmptity.Common
 {
     public class Wallet
     {
+        public int Id {  get; set; }
+        public string WalletName { get; set; }
     }
 }
